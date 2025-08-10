@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-# Get current date and time
+# get current date and time
 now = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
 # Get random motivational quote
